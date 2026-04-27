@@ -24,7 +24,7 @@ This is **not** a PRNG. This is **not** a test data framework with schema valida
 ## Install
 
 ```bash
-pip install grievous
+pip install grievous-mcp
 ```
 
 Set your API key:

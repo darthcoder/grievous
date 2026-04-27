@@ -1,5 +1,5 @@
 [project]
-name = "grievous"
+name = "grievous-mcp"
 version = "0.1.0"
 description = "A hallucination engine. Typed pseudorandom data via LLM. No guarantees. Trigger discipline required."
 readme = "README.md"
