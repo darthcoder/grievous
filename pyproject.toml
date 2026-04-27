@@ -1,6 +1,6 @@
 [project]
 name = "grievous-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "A hallucination engine. Typed pseudorandom data via LLM. No guarantees. Trigger discipline required."
 readme = "README.md"
 requires-python = ">=3.11"
